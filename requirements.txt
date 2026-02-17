@@ -1,6 +1,7 @@
+fastapi
+uvicorn
 pdfplumber
 pandas
 openpyxl
-pytesseract
-Pillow
+python-multipart
 rapidfuzz
