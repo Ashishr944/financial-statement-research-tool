@@ -1,4 +1,5 @@
 Web: https://financial-statement-research-tool.onrender.com
+
 Financial Statement Extraction Research Tool
 Overview
 
@@ -172,4 +173,5 @@ Software Development & Research Tooling
 Reviewer Note
 
 This implementation intentionally prioritizes correctness and transparency over completeness, aligning with internal research workflows where analyst trust and auditability are critical.
+
 
